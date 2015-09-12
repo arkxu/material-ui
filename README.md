@@ -6,7 +6,7 @@ We recommend that you get started with the [React Library](http://facebook.githu
 
 ## Installation
 
-Material-UI is available as an [npm package](https://www.npmjs.org/package/material-ui-io).
+Material-UI-IO is available as an [npm package](https://www.npmjs.org/package/material-ui-io).
 ```sh
 npm install material-ui-io
 ```
@@ -21,6 +21,17 @@ Here are [some instructions](http://www.google.com/fonts#UsePlace:use/Collection
 
 ## Usage
 Check [Material-UI](http://callemall.github.io/material-ui/) for their documentation
+
+## Webpack
+If you're using [webpack](https://webpack.github.io/), easily move to Material-UI-IO by aliasing `material-ui` to `material-ui-io` in your config like so:
+
+```js
+resolve: {
+  alias: {
+    'material-ui': 'material-ui-io'
+  }
+}
+```
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/callemall/material-ui/blob/master/LICENSE)
