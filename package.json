@@ -34,15 +34,15 @@
     "react-draggable2": "^0.5.1"
   },
   "peerDependencies": {
-    "react": "^0.14.0-beta3",
-    "react-dom": "^0.14.0-beta3",
-    "react-addons-transition-group": "^0.14.0-beta3",
-    "react-addons-update": "^0.14.0-beta3",
-    "react-addons-create-fragment": "^0.14.0-beta3",
-    "react-addons-pure-render-mixin": "^0.14.0-beta3",
-    "react-addons-linked-state-mixin": "^0.14.0-beta3",
-    "react-addons-clone-with-props": "^0.14.0-beta3",
-    "react-addons-test-utils": "^0.14.0-beta3"
+    "react": "^0.14.0-rc1",
+    "react-dom": "^0.14.0-rc1",
+    "react-addons-transition-group": "^0.14.0-rc1",
+    "react-addons-update": "^0.14.0-rc1",
+    "react-addons-create-fragment": "^0.14.0-rc1",
+    "react-addons-pure-render-mixin": "^0.14.0-rc1",
+    "react-addons-linked-state-mixin": "^0.14.0-rc1",
+    "react-addons-clone-with-props": "^0.14.0-rc1",
+    "react-addons-test-utils": "^0.14.0-rc1"
   },
   "devDependencies": {
     "babel": "^5.4.3",
