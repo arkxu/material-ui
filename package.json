@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-io",
+  "name": "material-ui",
   "author": "juhaelee",
   "version": "0.0.2",
   "description": "Material Design UI components built with React",
@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/juhaelee/material-ui-io.git"
+    "url": "https://github.com/arkxu/material-ui.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juhaelee/material-ui-io/issues"
+    "url": "https://github.com/arkxu/material-ui/issues"
   },
   "homepage": "http://material-ui.com/",
   "dependencies": {
